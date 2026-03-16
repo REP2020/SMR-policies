@@ -1,5 +1,5 @@
 # Secure My REP Policies
 
-- Terms of Service
-- Privacy Policy
-- Refund Policy
+- [Terms and Conditions](./terms.html)
+- [Privacy Policy](./privacy.html)
+- [Refund Policy](./refund.html)
